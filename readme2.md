@@ -95,7 +95,7 @@ DPM2 Karras, Latent (antialiased)
 
 ![img](./img01/00144-1170397349.png)
 
-#Euler a, Euler, LMS, Heun, DPM2, DPM2 a, DPM++ 2S a, DPM++ 2M, DPM++ SDE, DPM fast, DPM adaptive, LMS Karras, DPM2 Karras, DPM2 a Karras, DPM++ 2S a Karras, DPM++ 2M Karras, DPM++ SDE Karras, DDIM, PLMS
+<!-- Euler a, Euler, LMS, Heun, DPM2, DPM2 a, DPM++ 2S a, DPM++ 2M, DPM++ SDE, DPM fast, DPM adaptive, LMS Karras, DPM2 Karras, DPM2 a Karras, DPM++ 2S a Karras, DPM++ 2M Karras, DPM++ SDE Karras, DDIM, PLMS -->
 DPM2 a Karras
 
 ![img](./img01/00145-1170397349.png)
@@ -215,8 +215,8 @@ Latent, Latent (antialiased), Latent (bicubic), Latent (bicubic antialiased), La
     <td><img src="./img01/00248-1170397349.png" alt="3" width = 100px height = 100px></td>
     <td><img src="./img01/00249-1170397349.png" alt="4" width = 100px height = 100px></td>
     <td><img src="./img01/00250-1170397349.png" alt="2" width = 100px height = 100px></td>
-    <td><img src="./img01/00260-1170397349.png" alt="3" width = 100px height = 100px></td>
-    <td><img src="./img01/00195-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00251-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00252-1170397349.png" alt="4" width = 100px height = 100px></td>
   </tr>
   <tr>
     <td> Nearest</td>
@@ -281,5 +281,168 @@ Latent, Latent (antialiased), Latent (bicubic), Latent (bicubic antialiased), La
   </tr>
 </table>
 
+<!-- Euler a, Euler, LMS, Heun, DPM2, DPM2 a, DPM++ 2S a, 
+DPM++ 2M, DPM++ SDE, DPM fast, DPM adaptive, LMS Karras, DPM2 Karras, DPM2 a Karras, 
+DPM++ 2S a Karras, DPM++ 2M Karras, DPM++ SDE Karras, DDIM, PLMS 
+-->
+        
+<table>
+  <tr>
+    <td>plot xy</td>
+    <td>DPM++ 2M</td>
+    <td>DPM++ SDE</td>
+    <td>DPM fast</td>
+    <td>DPM adaptive</td>
+    <td>LMS Karras</td>
+    <td>DPM2 Karras</td>
+    <td>DPM2 a Karras</td>
+   </tr>
+  <tr>
+    <td>Latent</td>
+    <td><img src="./img01/00120-1170397349.png"  alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00121-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00122-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00123-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00124-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00125-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00126-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
+  <tr>
+    <td> Latent <BR>(antialiased)</td>
+    <td><img src="./img01/00139-1170397349.png"  alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00140-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00141-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00142-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00143-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00144-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00145-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
+  <tr>
+    <td>Latent<BR>(bicubic)</td>
+    <td><img src="./img01/00158-1170397349.png"  alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00159-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00160-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00161-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00162-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00163-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00164-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
+  <tr>
+    <td> Latent<BR>(bicubic <BR>antialiased)</td>
+    <td><img src="./img01/00177-1170397349.png"  alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00178-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00179-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00180-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00181-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00182-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00183-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
+  <tr>
+    <td> Latent <BR>(nearest)</td>
+    <td><img src="./img01/00196-1170397349.png"  alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00197-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00198-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00199-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00200-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00201-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00202-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
+      <!--------------------------------------------
+Latent, Latent (antialiased), Latent (bicubic), Latent (bicubic antialiased), Latent (nearest), Latent (nearest-exact), None, Lanczos, Nearest, ESRGAN_4x, R-ESRGAN 4x+, R-ESRGAN 4x+ Anime6B, LDSR, SwinIR 4x
+------------------------------------------->
+  <tr>
+    <td>  Latent <BR>(nearest-exact) <BR>(nearest)</td>
+    <td><img src="./img01/00215-1170397349.png"  alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00216-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00217-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00218-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00219-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00220-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00221-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
+  <tr>
+    <td> None <BR>(nearest)</td>
+    <td><img src="./img01/00234-1170397349.png"  alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00235-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00236-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00237-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00238-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00239-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00240-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
+<!-------------------------------------------------DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD-->
+  <tr>
+    <td> Lanczos <BR>(nearest)</td>
+    <td><img src="./img01/00246-1170397349.png"  alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00247-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00248-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00249-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00250-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00251-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00252-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
+  <tr>
+    <td> Nearest</td>
+    <td><img src="./img01/00272-1170397349.png"  alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00273-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00274-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00275-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00276-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00277-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00278-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
+  <tr>
+    <td>  ESRGAN_4x  </td>
+    <td><img src="./img01/00291-1170397349.png" alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00292-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00293-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00294-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00295-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00296-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00297-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
+<!-- R-ESRGAN 4x+-->  
+  <tr>
+    <td>   R-ESRGAN 4x+  </td>
+    <td><img src="./img01/00310-1170397349.png" alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00311-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00312-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00313-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00314-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00315-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00316-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
+  <tr>
+    <td>  R-ESRGAN 4x+<BR> Anime6B  </td>
+    <td><img src="./img01/00329-1170397349.png" alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00330-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00331-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00332-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00333-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00334-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00335-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
+  <tr>
+    <td> LDSR </td>
+    <td><img src="./img01/00348-1170397349.png" alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00349-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00350-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00351-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00352-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00353-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00354-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
+  <tr>
+    <td>   SwinIR 4x   </td>
+    <td><img src="./img01/00367-1170397349.png" alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00368-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00369-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00370-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00371-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00372-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00373-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
+</table>
+        
 
 ![img](./img01/00111-1170397349.png)
