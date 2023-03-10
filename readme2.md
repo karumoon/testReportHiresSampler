@@ -8,6 +8,26 @@ Latent, Latent (antialiased), Latent (bicubic), Latent (bicubic antialiased), La
 
 Euler a, Euler, LMS, Heun, DPM2, DPM2 a, DPM++ 2S a, DPM++ 2M, DPM++ SDE, DPM fast, DPM adaptive, LMS Karras, DPM2 Karras, DPM2 a Karras, DPM++ 2S a Karras, DPM++ 2M Karras, DPM++ SDE Karras, DDIM, PLMS
 
+![img](./img01/00133-1170397349.png)
+![img](./img01/00134-1170397349.png)
+![img](./img01/00135-1170397349.png)
+![img](./img01/00136-1170397349.png)
+![img](./img01/00137-1170397349.png)
+![img](./img01/00138-1170397349.png)
+![img](./img01/00139-1170397349.png)
+![img](./img01/00140-1170397349.png)
+![img](./img01/00141-1170397349.png)
+![img](./img01/00142-1170397349.png)
+![img](./img01/00143-1170397349.png)
+![img](./img01/00144-1170397349.png)
+![img](./img01/00145-1170397349.png)
+![img](./img01/00146-1170397349.png)
+![img](./img01/00147-1170397349.png)
+![img](./img01/00148-1170397349.png)
+![img](./img01/00149-1170397349.png)
+![img](./img01/00150-1170397349.png)
+![img](./img01/00151-1170397349.png)
+
 <table>
   <tr>
     <td>plot xy</td>
