@@ -116,6 +116,8 @@
     <td><img src="./img01/00120-1170397349.png" alt="2" width = 100px height = 100px></td>
     <td><img src="./img01/00121-1170397349.png" alt="3" width = 100px height = 100px></td>
     <td><img src="./img01/00122-1170397349.png" alt="4" width = 100px height = 100px></td>
+                                                       </tr>
+  <tr>
     <td><img src="./img01/00123-1170397349.png" alt="2" width = 100px height = 100px></td>
     <td><img src="./img01/00124-1170397349.png" alt="3" width = 100px height = 100px></td>
     <td><img src="./img01/00125-1170397349.png" alt="4" width = 100px height = 100px></td>
