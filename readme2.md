@@ -10,15 +10,21 @@ Euler a, Euler, LMS, Heun, DPM2, DPM2 a, DPM++ 2S a, DPM++ 2M, DPM++ SDE, DPM fa
 
 <table>
     <tr><td>None </td> <td>SwinIR 4x </td></tr>
-    <tr><td>Euler a</td><td></td></tr>
+    <tr><td>Euler a ,None</td><td>Euler a ,SwinIR 4x</td></tr>
     <tr><td><img src="./img01/00227-1170397349.png"  alt="1" width = 400px height = 400px ></td>
         <td><img src="./img01/00360-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
-    <tr><td>Euler</td> </tr>
+    <tr><td>Euler,None</td><td>Euler  ,SwinIR 4x</td></tr>
     <tr><td><img src="./img01/00228-1170397349.png"  alt="1" width = 400px height = 400px ></td>
         <td><img src="./img01/00361-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
-    <tr>LMS </tr>
+    <tr>LMS,None</td><td>LMS  ,SwinIR 4x</td></tr>
     <tr><td><img src="./img01/00229-1170397349.png"  alt="1" width = 400px height = 400px ></td>
         <td><img src="./img01/00362-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
+    <tr>Heun,None</td><td>Heun  ,SwinIR 4x</td></tr>
+    <tr><td><img src="./img01/00230-1170397349.png"  alt="1" width = 400px height = 400px ></td>
+        <td><img src="./img01/00363-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
+    <tr>DPM2,None</td><td>DPM2  ,SwinIR 4x</td></tr>
+    <tr><td><img src="./img01/00231-1170397349.png"  alt="1" width = 400px height = 400px ></td>
+        <td><img src="./img01/00364-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
     
     
 </table> 
