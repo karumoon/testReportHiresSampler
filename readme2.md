@@ -69,7 +69,51 @@ Euler a, Euler, LMS, Heun, DPM2, DPM2 a, DPM++ 2S a, DPM++ 2M, DPM++ SDE, DPM fa
     <td><img src="./img01/00194-1170397349.png" alt="3" width = 100px height = 100px></td>
     <td><img src="./img01/00195-1170397349.png" alt="4" width = 100px height = 100px></td>
   </tr>
+      <!--------------------------------------------
+Latent, Latent (antialiased), Latent (bicubic), Latent (bicubic antialiased), Latent (nearest), Latent (nearest-exact), None, Lanczos, Nearest, ESRGAN_4x, R-ESRGAN 4x+, R-ESRGAN 4x+ Anime6B, LDSR, SwinIR 4x
+------------------------------------------->
+  <tr>
+    <td>  Latent <BR>(nearest-exact) <BR>(nearest)</td>
+    <td><img src="./img01/00208-1170397349.png"  alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00209-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00210-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00211-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00212-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00213-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00214-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
+  <tr>
+    <td> None <BR>(nearest)</td>
+    <td><img src="./img01/00227-1170397349.png"  alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00228-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00229-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00230-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00231-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00232-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00233-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
+  <tr>
+    <td> Lanczos <BR>(nearest)</td>
+    <td><img src="./img01/00246-1170397349.png"  alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00247-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00248-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00249-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00250-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00260-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00195-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
+  <tr>
+    <td> Nearest <BR>(nearest)</td>
+    <td><img src="./img01/00265-1170397349.png"  alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00266-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00267-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00268-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00269-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00270-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00271-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
   
+     
 </table>
 
 
