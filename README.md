@@ -119,5 +119,117 @@ Euler a, Euler, LMS, Heun, DPM2, DPM2 a, DPM++ 2S a, DPM++ 2M, DPM++ SDE, DPM fa
 
 </table>
 
+      
+<table>
+  <tr>
+    <td>plot xy</td>
+    <td>Euler a</td>
+    <td>Euler</td>
+    <td>LMS</td>
+    <td>Heun</td>
+   </tr>
+  <tr>
+    <td>Latent</td>
+    <td><img src="./img01/00117-1170397349.png"  alt="1" width = 200px height = 200px ></td>
+    <td><img src="./img01/00118-1170397349.png" alt="2" width = 200px height = 200px></td>
+    <td><img src="./img01/00119-1170397349.png" alt="3" width = 200px height = 200px></td>
+    <td><img src="./img01/00120-1170397349.png" alt="4" width = 200px height = 200px></td>
+  </tr>
+  <tr>
+    <td>Latent<BR>(antialiased)</td>
+    <td><img src="./img01/00136-1170397349.png"  alt="1" width = 200px height = 200px ></td>
+    <td><img src="./img01/00137-1170397349.png" alt="2" width = 200px height = 200px></td>
+    <td><img src="./img01/00138-1170397349.png" alt="3" width = 200px height = 200px></td>
+    <td><img src="./img01/00139-1170397349.png" alt="4" width = 200px height = 200px></td>
+  </tr>
+  <tr>
+    <td>Latent<BR> (bicubic)</td>
+    <td><img src="./img01/00155-1170397349.png"  alt="1" width = 200px height = 200px ></td>
+    <td><img src="./img01/00156-1170397349.png" alt="2" width = 200px height = 200px></td>
+    <td><img src="./img01/00157-1170397349.png" alt="3" width = 200px height = 200px></td>
+    <td><img src="./img01/00158-1170397349.png" alt="4" width = 200px height = 200px></td>
+  </tr>
+  <tr>
+    <td>Latent<BR>(bicubic <BR>antialiased)</td>
+    <td><img src="./img01/00174-1170397349.png"  alt="1" width = 200px height = 200px ></td>
+    <td><img src="./img01/00175-1170397349.png" alt="2" width = 200px height = 200px></td>
+    <td><img src="./img01/00176-1170397349.png" alt="3" width = 200px height = 200px></td>
+    <td><img src="./img01/00177-1170397349.png" alt="4" width = 200px height = 200px></td>
+  </tr>
+  <tr>
+    <td>Latent <BR>(nearest)</td>
+    <td><img src="./img01/00183-1170397349.png"  alt="1" width = 200px height = 200px ></td>
+    <td><img src="./img01/00194-1170397349.png" alt="2" width = 200px height = 200px></td>
+    <td><img src="./img01/00195-1170397349.png" alt="3" width = 200px height = 200px></td>
+    <td><img src="./img01/00196-1170397349.png" alt="4" width = 200px height = 200px></td>
+  </tr>
+  <tr>
+    <td> Latent (nearest-exact)</td>
+    <td><img src="./img01/00202-1170397349.png"  alt="1" width = 200px height = 200px ></td>
+    <td><img src="./img01/00203-1170397349.png" alt="2" width = 200px height = 200px></td>
+    <td><img src="./img01/00204-1170397349.png" alt="3" width = 200px height = 200px></td>
+    <td><img src="./img01/00205-1170397349.png" alt="4" width = 200px height = 200px></td>
+  </tr>
+  <tr>
+    <td>None</td>
+    <td><img src="./img01/00231-1170397349.png"  alt="1" width = 200px height = 200px ></td>
+    <td><img src="./img01/00232-1170397349.png" alt="2" width = 200px height = 200px></td>
+    <td><img src="./img01/00233-1170397349.png" alt="3" width = 200px height = 200px></td>
+    <td><img src="./img01/00234-1170397349.png" alt="4" width = 200px height = 200px></td>
+  </tr>
+  <tr>
+    <td>Lanczos</td>
+    <td><img src="./img01/00250-1170397349.png"  alt="1" width = 200px height = 200px ></td>
+    <td><img src="./img01/00251-1170397349.png" alt="2" width = 200px height = 200px></td>
+    <td><img src="./img01/00252-1170397349.png" alt="3" width = 200px height = 200px></td>
+    <td><img src="./img01/00253-1170397349.png" alt="4" width = 200px height = 200px></td>
+  </tr>
+<!-- Lanczos, Nearest, ESRGAN_4x, R-ESRGAN 4x+, R-ESRGAN 4x+ Anime6B, LDSR, SwinIR 4x --> 
+  <tr>
+    <td>Nearest</td>
+    <td><img src="./img01/00269-1170397349.png"  alt="1" width = 200px height = 200px ></td>
+    <td><img src="./img01/00270-1170397349.png" alt="2" width = 200px height = 200px></td>
+    <td><img src="./img01/00271-1170397349.png" alt="3" width = 200px height = 200px></td>
+    <td><img src="./img01/00272-1170397349.png" alt="4" width = 200px height = 200px></td>
+  </tr>
+  <tr>
+    <td>ESRGAN_4x</td>
+    <td><img src="./img01/00288-1170397349.png"  alt="1" width = 200px height = 200px ></td>
+    <td><img src="./img01/00289-1170397349.png" alt="2" width = 200px height = 200px></td>
+    <td><img src="./img01/00290-1170397349.png" alt="3" width = 200px height = 200px></td>
+    <td><img src="./img01/00291-1170397349.png" alt="4" width = 200px height = 200px></td>
+  </tr>
+  <tr>
+    <td>R-ESRGAN<BR>4x+</td>
+    <td><img src="./img01/00307-1170397349.png"  alt="1" width = 200px height = 200px ></td>
+    <td><img src="./img01/00308-1170397349.png" alt="2" width = 200px height = 200px></td>
+    <td><img src="./img01/00309-1170397349.png" alt="3" width = 200px height = 200px></td>
+    <td><img src="./img01/00310-1170397349.png" alt="4" width = 200px height = 200px></td>
+  </tr>
+  <tr>
+    <td>R-ESRGAN<BR>4x+<BR>Anime6B</td>
+    <td><img src="./img01/00326-1170397349.png"  alt="1" width = 200px height = 200px ></td>
+    <td><img src="./img01/00327-1170397349.png" alt="2" width = 200px height = 200px></td>
+    <td><img src="./img01/00328-1170397349.png" alt="3" width = 200px height = 200px></td>
+    <td><img src="./img01/00329-1170397349.png" alt="4" width = 200px height = 200px></td>
+  </tr>
+  <tr>
+    <td>LDSR</td>
+    <td><img src="./img01/00345-1170397349.png"  alt="1" width = 200px height = 200px ></td>
+    <td><img src="./img01/00346-1170397349.png" alt="2" width = 200px height = 200px></td>
+    <td><img src="./img01/00347-1170397349.png" alt="3" width = 200px height = 200px></td>
+    <td><img src="./img01/00348-1170397349.png" alt="4" width = 200px height = 200px></td>
+  </tr>
+  <tr>
+    <td>SwinIR 4x </td>
+    <td><img src="./img01/00364-1170397349.png"  alt="1" width = 200px height = 200px ></td>
+    <td><img src="./img01/00365-1170397349.png" alt="2" width = 200px height = 200px></td>
+    <td><img src="./img01/00366-1170397349.png" alt="3" width = 200px height = 200px></td>
+    <td><img src="./img01/00367-1170397349.png" alt="4" width = 200px height = 200px></td>
+  </tr>
+
+
+</table>
+
 
 ![img](./img01/00111-1170397349.png)
