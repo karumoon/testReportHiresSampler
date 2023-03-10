@@ -1,5 +1,7 @@
 click ---> readme.md   For detail X VIEW
 
+text invension : easynegative , ulzzang-6500 , pureerosface_v1
+
 prompt : <lora:yaeMikoRealistic_yaemikoMixed:0.75>, (ulzzang-6500:0.66), (pureerosface_v1:0.9),masterpiece, best quality, highly detailed,(strong outfocus background  in sky:1.5),out door,sfw,(angel) in cloud,(white T-shirt,blond long hair),(naked feet),detailed face,(yellow long:1.2) skirt,well toned body
 
 neg prompt : (worst quality, low quality:1.4), easynegative, bad_prompt_version2,bad anatomy
