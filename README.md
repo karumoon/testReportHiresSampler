@@ -1,3 +1,5 @@
+click ---> readme.md   For detail X VIEW
+
 plot x:hires upsclaer 
 plot y:sampler
 <table>
