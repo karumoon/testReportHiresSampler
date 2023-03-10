@@ -373,13 +373,13 @@ Latent, Latent (antialiased), Latent (bicubic), Latent (bicubic antialiased), La
 <!-------------------------------------------------DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD-->
   <tr>
     <td> Lanczos <BR>(nearest)</td>
-    <td><img src="./img01/00246-1170397349.png"  alt="1" width = 100px height = 100px ></td>
-    <td><img src="./img01/00247-1170397349.png" alt="2" width = 100px height = 100px></td>
-    <td><img src="./img01/00248-1170397349.png" alt="3" width = 100px height = 100px></td>
-    <td><img src="./img01/00249-1170397349.png" alt="4" width = 100px height = 100px></td>
-    <td><img src="./img01/00250-1170397349.png" alt="2" width = 100px height = 100px></td>
-    <td><img src="./img01/00251-1170397349.png" alt="3" width = 100px height = 100px></td>
-    <td><img src="./img01/00252-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00253-1170397349.png"  alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00254-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00255-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00256-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00257-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00258-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00259-1170397349.png" alt="4" width = 100px height = 100px></td>
   </tr>
   <tr>
     <td> Nearest</td>
@@ -518,14 +518,14 @@ Latent, Latent (antialiased), Latent (bicubic), Latent (bicubic antialiased), La
     <td><img src="./img01/00244-1170397349.png" alt="4" width = 100px height = 100px></td>
     <td><img src="./img01/00245-1170397349.png" alt="2" width = 100px height = 100px></td>
   </tr>
-<!-------------------------------------------------DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD-->
+<!-------------------------------------------------DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD_228_247_266_285_304           323 -->
   <tr>
-    <td> Lanczos <BR>(nearest)</td>
-    <td><img src="./img01/00253-1170397349.png"  alt="1" width = 100px height = 100px ></td>
-    <td><img src="./img01/00254-1170397349.png" alt="2" width = 100px height = 100px></td>
-    <td><img src="./img01/00255-1170397349.png" alt="3" width = 100px height = 100px></td>
-    <td><img src="./img01/00256-1170397349.png" alt="4" width = 100px height = 100px></td>
-    <td><img src="./img01/00257-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td> Lanczos </td>
+    <td><img src="./img01/00260-1170397349.png"  alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00261-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00262-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00263-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00264-1170397349.png" alt="2" width = 100px height = 100px></td>
   </tr>
   <tr>
     <td> Nearest</td>
@@ -534,8 +534,6 @@ Latent, Latent (antialiased), Latent (bicubic), Latent (bicubic antialiased), La
     <td><img src="./img01/00281-1170397349.png" alt="3" width = 100px height = 100px></td>
     <td><img src="./img01/00282-1170397349.png" alt="4" width = 100px height = 100px></td>
     <td><img src="./img01/00283-1170397349.png" alt="2" width = 100px height = 100px></td>
-    <td><img src="./img01/00284-1170397349.png" alt="3" width = 100px height = 100px></td>
-    <td><img src="./img01/00285-1170397349.png" alt="4" width = 100px height = 100px></td>
   </tr>
   <tr>
     <td>  ESRGAN_4x  </td>
