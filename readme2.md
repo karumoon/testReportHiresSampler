@@ -8,11 +8,17 @@ Latent, Latent (antialiased), Latent (bicubic), Latent (bicubic antialiased), La
 
 Euler a, Euler, LMS, Heun, DPM2, DPM2 a, DPM++ 2S a, DPM++ 2M, DPM++ SDE, DPM fast, DPM adaptive, LMS Karras, DPM2 Karras, DPM2 a Karras, DPM++ 2S a Karras, DPM++ 2M Karras, DPM++ SDE Karras, DDIM, PLMS
 
+Euler a,
 ![img](./img01/00132-1170397349.png)
+Euler
 ![img](./img01/00133-1170397349.png)
+LMS   --  error
 ![img](./img01/00134-1170397349.png)
+Heun
 ![img](./img01/00135-1170397349.png)
+DPM2
 ![img](./img01/00136-1170397349.png)
+DPM2 a
 ![img](./img01/00137-1170397349.png)
 ![img](./img01/00138-1170397349.png)
 ![img](./img01/00139-1170397349.png)
