@@ -74,54 +74,48 @@ Euler a, Euler, LMS, Heun, DPM2, DPM2 a, DPM++ 2S a, DPM++ 2M, DPM++ SDE, DPM fa
   </tr>
 <!-- Lanczos, Nearest, ESRGAN_4x, R-ESRGAN 4x+, R-ESRGAN 4x+ Anime6B, LDSR, SwinIR 4x --> 
   <tr>
-    <td>Lanczos</td>
+    <td>Nearest</td>
     <td><img src="./img01/00265-1170397349.png"  alt="1" width = 200px height = 200px ></td>
     <td><img src="./img01/00266-1170397349.png" alt="2" width = 200px height = 200px></td>
     <td><img src="./img01/00267-1170397349.png" alt="3" width = 200px height = 200px></td>
     <td><img src="./img01/00268-1170397349.png" alt="4" width = 200px height = 200px></td>
   </tr>
   <tr>
-    <td>Nearest</td>
+    <td>ESRGAN_4x</td>
     <td><img src="./img01/00284-1170397349.png"  alt="1" width = 200px height = 200px ></td>
     <td><img src="./img01/00285-1170397349.png" alt="2" width = 200px height = 200px></td>
     <td><img src="./img01/00286-1170397349.png" alt="3" width = 200px height = 200px></td>
     <td><img src="./img01/00287-1170397349.png" alt="4" width = 200px height = 200px></td>
   </tr>
   <tr>
-    <td>ESRGAN_4x</td>
+    <td>R-ESRGAN<BR>4x+</td>
     <td><img src="./img01/00303-1170397349.png"  alt="1" width = 200px height = 200px ></td>
     <td><img src="./img01/00304-1170397349.png" alt="2" width = 200px height = 200px></td>
     <td><img src="./img01/00305-1170397349.png" alt="3" width = 200px height = 200px></td>
     <td><img src="./img01/00306-1170397349.png" alt="4" width = 200px height = 200px></td>
   </tr>
   <tr>
-    <td>R-ESRGAN 4x+</td>
+    <td>R-ESRGAN<BR>4x+<BR>Anime6B</td>
     <td><img src="./img01/00322-1170397349.png"  alt="1" width = 200px height = 200px ></td>
     <td><img src="./img01/00323-1170397349.png" alt="2" width = 200px height = 200px></td>
     <td><img src="./img01/00324-1170397349.png" alt="3" width = 200px height = 200px></td>
     <td><img src="./img01/00325-1170397349.png" alt="4" width = 200px height = 200px></td>
   </tr>
   <tr>
-    <td>R-ESRGAN<BR>4x+<BR>Anime6B</td>
+    <td>LDSR</td>
     <td><img src="./img01/00341-1170397349.png"  alt="1" width = 200px height = 200px ></td>
     <td><img src="./img01/00342-1170397349.png" alt="2" width = 200px height = 200px></td>
     <td><img src="./img01/00343-1170397349.png" alt="3" width = 200px height = 200px></td>
     <td><img src="./img01/00344-1170397349.png" alt="4" width = 200px height = 200px></td>
   </tr>
   <tr>
-    <td>LDSR</td>
+    <td>SwinIR 4x </td>
     <td><img src="./img01/00360-1170397349.png"  alt="1" width = 200px height = 200px ></td>
     <td><img src="./img01/00361-1170397349.png" alt="2" width = 200px height = 200px></td>
     <td><img src="./img01/00362-1170397349.png" alt="3" width = 200px height = 200px></td>
     <td><img src="./img01/00363-1170397349.png" alt="4" width = 200px height = 200px></td>
   </tr>
-  <tr>
-    <td>SwinIR 4x </td>
-    <td><img src="./img01/00379-1170397349.png"  alt="1" width = 200px height = 200px ></td>
-    <td><img src="./img01/00380-1170397349.png" alt="2" width = 200px height = 200px></td>
-    <td><img src="./img01/00381-1170397349.png" alt="3" width = 200px height = 200px></td>
-    <td><img src="./img01/00382-1170397349.png" alt="4" width = 200px height = 200px></td>
-  </tr>
+
 
 </table>
 
