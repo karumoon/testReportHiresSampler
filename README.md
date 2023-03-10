@@ -31,7 +31,7 @@
       <th>Col 5</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="overflow: auto; height: 100px;">
     <tr>
       <td>row 1-0</td>
       <td>row 1-1</td>
