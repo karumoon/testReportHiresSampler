@@ -24,7 +24,7 @@
 <script>
     document.write("sadf")
 </script>
-<table class="fixed_header">
+<table style="overflow: auto; height: 100px;>
   <thead>
     <tr>
       <th>Col 1</th>
@@ -35,7 +35,7 @@
     </tr>
   </thead>
   <div style="overflow: auto; height: 100px;">
-    <tr>
+    <tr style="overflow: auto; height: 100px;>
       <td>row 1-0</td>
       <td>row 1-1</td>
       <td>row 1-2</td>
