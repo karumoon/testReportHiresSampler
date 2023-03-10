@@ -8,63 +8,85 @@ Latent, Latent (antialiased), Latent (bicubic), Latent (bicubic antialiased), La
 
 Euler a, Euler, LMS, Heun, DPM2, DPM2 a, DPM++ 2S a, DPM++ 2M, DPM++ SDE, DPM fast, DPM adaptive, LMS Karras, DPM2 Karras, DPM2 a Karras, DPM++ 2S a Karras, DPM++ 2M Karras, DPM++ SDE Karras, DDIM, PLMS
 
-Euler a,
+Euler a, Latent (antialiased)
 
 ![img](./img01/00132-1170397349.png)
 
-Euler
+Euler, Latent (antialiased)
 
 ![img](./img01/00133-1170397349.png)
 
-LMS   --  error
+LMS   --  error , Latent (antialiased)
 
 ![img](./img01/00134-1170397349.png)
 
-Heun
+Heun , Latent (antialiased)
 
 ![img](./img01/00135-1170397349.png)
 
-DPM2
+DPM2 , Latent (antialiased)
 
 ![img](./img01/00136-1170397349.png)
 
-DPM2 a
+DPM2 a , Latent (antialiased)
 
 ![img](./img01/00137-1170397349.png)
 
-DPM++ 2S a
+DPM++ 2S a , Latent (antialiased)
 
 ![img](./img01/00138-1170397349.png)
 
-DPM++ 2M
+DPM++ 2M , Latent (antialiased)
 
 ![img](./img01/00139-1170397349.png)
 
-DPM++ SDE
+DPM++ SDE , Latent (antialiased)
 
 ![img](./img01/00140-1170397349.png)
 
-DPM fast
+DPM fast , Latent (antialiased)
 
 ![img](./img01/00141-1170397349.png)
 
-DPM adaptive
+DPM adaptive , Latent (antialiased)
 
 ![img](./img01/00142-1170397349.png)
 
-LMS Karras
+LMS Karras , Latent (antialiased)
 
 ![img](./img01/00143-1170397349.png)
 
-DPM2 Karras, DPM2 a Karras, DPM++ 2S a Karras, DPM++ 2M Karras, DPM++ SDE Karras, DDIM, PLMS
+DPM2 Karras, Latent (antialiased)
 
 ![img](./img01/00144-1170397349.png)
+
+#Euler a, Euler, LMS, Heun, DPM2, DPM2 a, DPM++ 2S a, DPM++ 2M, DPM++ SDE, DPM fast, DPM adaptive, LMS Karras, DPM2 Karras, DPM2 a Karras, DPM++ 2S a Karras, DPM++ 2M Karras, DPM++ SDE Karras, DDIM, PLMS
+DPM2 a Karras
+
 ![img](./img01/00145-1170397349.png)
+
+DPM++ 2S a Karras, Latent (antialiased)
+
 ![img](./img01/00146-1170397349.png)
+
+DPM++ 2M Karras, Latent (antialiased)
+
 ![img](./img01/00147-1170397349.png)
+
+DPM++ SDE Karras, Latent (antialiased)
+ 
 ![img](./img01/00148-1170397349.png)
+
+DDIM, Latent (antialiased)
+
 ![img](./img01/00149-1170397349.png)
+
+PLMS, Latent (antialiased)
+
 ![img](./img01/00150-1170397349.png)
+
+euler, Latent (bicubic) 
+
 ![img](./img01/00151-1170397349.png)
 
 <table>
