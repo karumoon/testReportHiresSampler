@@ -1,7 +1,8 @@
-
+plot x:hires upsclaer 
+plot y:sampler
 <table>
   <tr>
-    <td>plot x:hires upsclaer, y:sampler</td>
+    <td>plot xy</td>
     <td>asdf</td>
     <td>asdf</td>
     <td>asdf</td>
