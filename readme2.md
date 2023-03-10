@@ -9,15 +9,18 @@ Latent, Latent (antialiased), Latent (bicubic), Latent (bicubic antialiased), La
 Euler a, Euler, LMS, Heun, DPM2, DPM2 a, DPM++ 2S a, DPM++ 2M, DPM++ SDE, DPM fast, DPM adaptive, LMS Karras, DPM2 Karras, DPM2 a Karras, DPM++ 2S a Karras, DPM++ 2M Karras, DPM++ SDE Karras, DDIM, PLMS
 
 <table>
-    <tr> None <BR></tr>
-        <tr>Euler a</tr>
-    <tr><td><img src="./img01/00227-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
-    <tr><td><img src="./img01/00228-1170397349.png" alt="2" width = 400px height = 400px></td></tr>
-    <tr><td><img src="./img01/00229-1170397349.png" alt="3" width = 400px height = 400px></td></tr>
-    <tr><td><img src="./img01/00230-1170397349.png" alt="4" width = 400px height = 400px></td></tr>
-    <tr><td><img src="./img01/00231-1170397349.png" alt="2" width = 400px height = 400px></td></tr>
-    <tr><td><img src="./img01/00232-1170397349.png" alt="3" width = 400px height = 400px></td></tr>
-    <tr><td><img src="./img01/00233-1170397349.png" alt="4" width = 400px height = 400px></td></tr>
+    <tr><td>None </td> <td>SwinIR 4x </td></tr>
+    <tr>Euler a</tr>
+    <tr><td><img src="./img01/00227-1170397349.png"  alt="1" width = 400px height = 400px ></td>
+        <td><img src="./img01/00360-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
+    <tr>Euler </tr>
+    <tr><td><img src="./img01/00228-1170397349.png"  alt="1" width = 400px height = 400px ></td>
+        <td><img src="./img01/00361-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
+    <tr>LMS </tr>
+    <tr><td><img src="./img01/00229-1170397349.png"  alt="1" width = 400px height = 400px ></td>
+        <td><img src="./img01/00362-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
+    
+    
 </table> 
   
 
