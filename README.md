@@ -1,7 +1,9 @@
 click ---> readme.md   For detail X VIEW
 
-plot x:hires upsclaer 
+plot x:hires upsclaer
+
 plot y:sampler
+
 <table>
   <tr>
     <td>plot xy</td>
@@ -11,7 +13,7 @@ plot y:sampler
     <td>asdf</td>
     <td>asdf</td>
     <td>asdf</td>
-    
+    <td>asdf</td>
    </tr>
   <tr>
     <td>asdf</td>
@@ -43,7 +45,26 @@ plot y:sampler
     <td><img src="./img01/00156-1170397349.png" alt="3" width = 100px height = 100px></td>
     <td><img src="./img01/00157-1170397349.png" alt="4" width = 100px height = 100px></td>
   </tr>
-  
+  <tr>
+    <td>asdf</td>
+    <td><img src="./img01/00170-1170397349.png"  alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00171-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00172-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00173-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00174-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00175-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00176-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
+  <tr>
+    <td>asdf</td>
+    <td><img src="./img01/00189-1170397349.png"  alt="1" width = 100px height = 100px ></td>
+    <td><img src="./img01/00190-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00191-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00192-1170397349.png" alt="4" width = 100px height = 100px></td>
+    <td><img src="./img01/00193-1170397349.png" alt="2" width = 100px height = 100px></td>
+    <td><img src="./img01/00194-1170397349.png" alt="3" width = 100px height = 100px></td>
+    <td><img src="./img01/00195-1170397349.png" alt="4" width = 100px height = 100px></td>
+  </tr>
   
 </table>
 
