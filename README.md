@@ -35,7 +35,7 @@
     </tr>
   </thead>
   <div style="overflow: auto; height: 100px;">
-    <tr style="overflow: auto; height: 100px;>
+    <tr >
       <td>row 1-0</td>
       <td>row 1-1</td>
       <td>row 1-2</td>
