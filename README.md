@@ -14,10 +14,7 @@ Euler a, Euler, LMS, Heun, DPM2, DPM2 a, DPM++ 2S a, DPM++ 2M, DPM++ SDE, DPM fa
     <td>Euler a</td>
     <td>Euler</td>
     <td>LMS</td>
-    <td>Heun</td>
-    <td>DPM2</td>
-    <td>DPM2 a</td>
-    <td>DPM++ 2S a</td>
+   
    </tr>
   <tr>
     <td>Latent</td>
