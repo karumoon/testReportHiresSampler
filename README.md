@@ -119,14 +119,15 @@ Euler a, Euler, LMS, Heun, DPM2, DPM2 a, DPM++ 2S a, DPM++ 2M, DPM++ SDE, DPM fa
 
 </table>
 
-      
+<!-- Euler a, Euler, LMS, Heun, DPM2, DPM2 a, DPM++ 2S a, DPM++ 2M, DPM++ SDE, DPM fast, DPM adaptive, LMS Karras, DPM2 Karras, DPM2 a Karras, DPM++ 2S a Karras, DPM++ 2M Karras, DPM++ SDE Karras, DDIM, PLMS
+-->
 <table>
   <tr>
-    <td>plot xy</td>
-    <td>Euler a</td>
-    <td>Euler</td>
-    <td>LMS</td>
-    <td>Heun</td>
+    <td>DPM2</td>
+    <td> DPM2 a</td>
+    <td>DPM++ 2S a</td>
+    <td> DPM++ 2M</td>
+    <td>DPM++ SDE</td>
    </tr>
   <tr>
     <td>Latent</td>
