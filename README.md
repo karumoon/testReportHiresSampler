@@ -18,10 +18,10 @@ Euler a, Euler, LMS, Heun, DPM2, DPM2 a, DPM++ 2S a, DPM++ 2M, DPM++ SDE, DPM fa
    </tr>
   <tr>
     <td>Latent</td>
-    <td><img src="./img01/00113-1170397349.png"  alt="1" width = 256px height = 256px ></td>
-    <td><img src="./img01/00114-1170397349.png" alt="2" width = 256px height = 256px></td>
-    <td><img src="./img01/00115-1170397349.png" alt="3" width = 256px height = 256px></td>
-    <td><img src="./img01/00116-1170397349.png" alt="4" width = 256px height = 256px></td>
+    <td><img src="./img01/00113-1170397349.png"  alt="1" width = 200px height = 200px ></td>
+    <td><img src="./img01/00114-1170397349.png" alt="2" width = 200px height = 200px></td>
+    <td><img src="./img01/00115-1170397349.png" alt="3" width = 200px height = 200px></td>
+    <td><img src="./img01/00116-1170397349.png" alt="4" width = 200px height = 200px></td>
     
   </tr>
  
