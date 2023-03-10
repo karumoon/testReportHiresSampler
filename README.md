@@ -159,17 +159,17 @@ Euler a, Euler, LMS, Heun, DPM2, DPM2 a, DPM++ 2S a, DPM++ 2M, DPM++ SDE, DPM fa
   </tr>
   <tr>
     <td>Latent <BR>(nearest)</td>
-    <td><img src="./img01/00183-1170397349.png"  alt="1" width = 200px height = 200px ></td>
+    <td><img src="./img01/00193-1170397349.png"  alt="1" width = 200px height = 200px ></td>
     <td><img src="./img01/00194-1170397349.png" alt="2" width = 200px height = 200px></td>
     <td><img src="./img01/00195-1170397349.png" alt="3" width = 200px height = 200px></td>
     <td><img src="./img01/00196-1170397349.png" alt="4" width = 200px height = 200px></td>
   </tr>
   <tr>
     <td> Latent (nearest-exact)</td>
-    <td><img src="./img01/00202-1170397349.png"  alt="1" width = 200px height = 200px ></td>
-    <td><img src="./img01/00203-1170397349.png" alt="2" width = 200px height = 200px></td>
-    <td><img src="./img01/00204-1170397349.png" alt="3" width = 200px height = 200px></td>
-    <td><img src="./img01/00205-1170397349.png" alt="4" width = 200px height = 200px></td>
+    <td><img src="./img01/00212-1170397349.png"  alt="1" width = 200px height = 200px ></td>
+    <td><img src="./img01/00213-1170397349.png" alt="2" width = 200px height = 200px></td>
+    <td><img src="./img01/00214-1170397349.png" alt="3" width = 200px height = 200px></td>
+    <td><img src="./img01/00215-1170397349.png" alt="4" width = 200px height = 200px></td>
   </tr>
   <tr>
     <td>None</td>
