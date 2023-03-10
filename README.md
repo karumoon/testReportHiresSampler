@@ -9,5 +9,5 @@ python_version: 3.10.9
 app_file: app.py
 pinned: false
 license: mit
-duplicated_from: ![img](a1.png)
+duplicated_from: ![img](00128-837904955.png)
 ---
