@@ -35,8 +35,48 @@ DPM++ SDE, DPM fast, DPM adaptive, LMS Karras, DPM2 Karras, DPM2 a Karras, DPM++
         <td><img src="./img01/00365-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
     <!------->
     <tr><td>DPM++ 2M,None</td>          <td>DPM++ 2M,SwinIR 4x</td></tr>
-    <tr><td><img src="./img01/00232-1170397349.png"  alt="1" width = 400px height = 400px ></td>
-        <td><img src="./img01/00365-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
+    <tr><td><img src="./img01/00233-1170397349.png"  alt="1" width = 400px height = 400px ></td>
+        <td><img src="./img01/00366-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
+    <!--DPM fast, DPM adaptive, LMS Karras, DPM2 Karras, DPM2 a Karras, DPM++ 2S a Karras, DPM++ 2M Karras, DPM++ SDE Karras, DDIM, PLMS-->
+    <tr><td>DPM++ SDE,None</td>          <td>DPM++ SDE,SwinIR 4x</td></tr>
+    <tr><td><img src="./img01/00234-1170397349.png"  alt="1" width = 400px height = 400px ></td>
+        <td><img src="./img01/00367-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
+    <!--DPM fast, DPM adaptive, LMS Karras, DPM2 Karras, DPM2 a Karras, DPM++ 2S a Karras, DPM++ 2M Karras, DPM++ SDE Karras, DDIM, PLMS-->
+    <tr><td>DPM fast,None</td>          <td>DPM fast,SwinIR 4x</td></tr>
+    <tr><td><img src="./img01/00235-1170397349.png"  alt="1" width = 400px height = 400px ></td>
+        <td><img src="./img01/00368-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
+    <!--DPM fast, DPM adaptive, LMS Karras, DPM2 Karras, DPM2 a Karras, DPM++ 2S a Karras, DPM++ 2M Karras, DPM++ SDE Karras, DDIM, PLMS-->
+    <tr><td>DPM adaptive,None</td>          <td>DPM adaptive,SwinIR 4x</td></tr>
+    <tr><td><img src="./img01/00236-1170397349.png"  alt="1" width = 400px height = 400px ></td>
+        <td><img src="./img01/00369-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
+    <!--LMS Karras, DPM2 Karras, DPM2 a Karras, DPM++ 2S a Karras, DPM++ 2M Karras, DPM++ SDE Karras, DDIM, PLMS-->
+    <tr><td>LMS Karras,None</td>          <td>LMS Karras,SwinIR 4x</td></tr>
+    <tr><td><img src="./img01/00237-1170397349.png"  alt="1" width = 400px height = 400px ></td>
+        <td><img src="./img01/00370-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
+    <!--LMS Karras, DPM2 Karras, DPM2 a Karras, DPM++ 2S a Karras, DPM++ 2M Karras, DPM++ SDE Karras, DDIM, PLMS-->
+    <tr><td>DPM2 Karras,None</td>          <td>DPM2 Karras,SwinIR 4x</td></tr>
+    <tr><td><img src="./img01/00238-1170397349.png"  alt="1" width = 400px height = 400px ></td>
+        <td><img src="./img01/00371-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
+    <!--DPM++ 2S a Karras, DPM++ 2M Karras, DPM++ SDE Karras, DDIM, PLMS-->
+    <tr><td>DPM++ 2S a Karras,,None</td>          <td>DPM++ 2S a Karras,,SwinIR 4x</td></tr>
+    <tr><td><img src="./img01/00239-1170397349.png"  alt="1" width = 400px height = 400px ></td>
+        <td><img src="./img01/00372-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
+    <!--DPM++ 2M Karras, DPM++ SDE Karras, DDIM, PLMS-->
+    <tr><td>DPM++ 2M Karras,,None</td>          <td>DPM++ 2M Karras,,SwinIR 4x</td></tr>
+    <tr><td><img src="./img01/00240-1170397349.png"  alt="1" width = 400px height = 400px ></td>
+        <td><img src="./img01/00373-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
+    <!--DPM++ SDE Karras, DDIM, PLMS-->
+    <tr><td>DPM++ SDE Karras,None</td>          <td>DPM++ SDE Karras,SwinIR 4x</td></tr>
+    <tr><td><img src="./img01/00241-1170397349.png"  alt="1" width = 400px height = 400px ></td>
+        <td><img src="./img01/00374-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
+    <!--DDIM, PLMS-->
+    <tr><td>DDIM,None</td>          <td>DDIM,SwinIR 4x</td></tr>
+    <tr><td><img src="./img01/00242-1170397349.png"  alt="1" width = 400px height = 400px ></td>
+        <td><img src="./img01/00375-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
+    <!--DDIM, PLMS-->
+    <tr><td>PLMS,None</td>          <td>PLMS,SwinIR 4x</td></tr>
+    <tr><td><img src="./img01/00243-1170397349.png"  alt="1" width = 400px height = 400px ></td>
+        <td><img src="./img01/00376-1170397349.png"  alt="1" width = 400px height = 400px ></td></tr>
     
     
 </table> 
