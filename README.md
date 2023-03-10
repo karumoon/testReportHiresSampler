@@ -15,8 +15,8 @@
     <td>Mexico</td>
   </tr>
 </table>
-<div style="padding:10px;overflow-y:auto;overflow-x:auto;width:2100px">
-<table style="padding:10px;overflow-y:auto;overflow-x:auto;width:2100px">
+<div style="padding:20px;overflow-y:auto;overflow-x:auto;width:2100px">
+<table style="padding:2px;">
   <tr>
     <td><img src="./img01/00113-1170397349.png"  alt="1" width = 100px height = 100px ></td>
     <td><img src="./img01/00114-1170397349.png" alt="2" width = 100px height = 100px></td>
