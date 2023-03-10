@@ -34,7 +34,7 @@
       <th>Col 5</th>
     </tr>
   </thead>
-  <tbody style="overflow: auto; height: 100px;">
+  <div style="overflow: auto; height: 100px;">
     <tr>
       <td>row 1-0</td>
       <td>row 1-1</td>
@@ -84,7 +84,7 @@
       <td>row 7-3</td>
       <td>row 7-4</td>
     </tr>
-  </tbody>
+  </div>
 </table>
 <table style="width:100%">
   <tr>
